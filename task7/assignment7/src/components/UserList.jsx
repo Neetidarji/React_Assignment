@@ -1,11 +1,11 @@
 import React from "react";
 
 function UserList() {
-  const users = [
-    { id: 1, name: "Neeti", age: 20 },
-    { id: 2, name: "Hani", age: 23 },
-    { id: 3, name: "Mansha", age: 20 },
-  ];
+    const users = [
+        { id: 1, name: "Alice", age: 25 },
+        { id: 2, name: "Bob", age: 30 },
+        { id: 3, name: "Charlie", age: 22 },
+      ];
 
   return (
     <div>
